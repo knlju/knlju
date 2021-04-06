@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-# Education
+#### About
 
-I'm a Bachelor of Applied Science. I graduated from School of Electrical and Computer Engineering in 2020. 
+Currently undertaking a master’s degree at School of Electrical and Computer Engineering in Belgrade.
 
-Currently I am undertaking a master’s degree at School of Electrical and Computer Engineering in Belgrade.
+Interested in web development and ReactJS.
 
-# About
-
-I'm interested in web development and ReactJS.
-
-# Contact
-
-📫 How to reach me: 
-
-You can email me at ljubisakn@gmail.com
+You can reach me by email at ljubisakn@gmail.com
